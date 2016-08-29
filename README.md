@@ -2,8 +2,8 @@
 
 So far I've learned how to
 1. Get setup with Git and Github
-   Installing Git
-   Signing up Github
+  1. Installing Git
+  2. Signing up Github
 2. Use the **command line**
 3. Push code to a **repository**
 4. Merge code using
